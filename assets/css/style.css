@@ -1,0 +1,36 @@
+body{
+	color:black;
+
+
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+	background: url("../images/crystal.jpg")center;
+}
+
+.container{
+	padding:20px;
+	max-width: 100%
+	margin:0px auto;
+}
+#div1{
+	
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+	background:black;
+	color:white;
+
+}
+
+#number{
+padding:20px;
+text-align: center;	
+background-color: black;
+color:white;
+}
+
+.jumbotron{
+	color:white;
+	text-align: center;
+	background-color:#02183d; 
+}
