@@ -30,7 +30,29 @@ color:white;
 }
 
 .jumbotron{
-	color:white;
-	text-align: center;
-	background-color:#02183d; 
+color:white;
+text-align: center;
+background-color:#02183d; 
+}
+
+#wins{
+padding:20px;
+text-align: center;	
+background-color: black;
+color:white;
+}
+
+#losses{
+padding:20px;
+text-align: center;	
+background-color: black;
+color:white;
+}
+
+
+#score{
+padding:20px;
+text-align: center;	
+background-color: black;
+color:white;
 }
