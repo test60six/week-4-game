@@ -30,9 +30,14 @@ color:white;
 }
 
 .jumbotron{
+	height: 150px;
 color:white;
 text-align: center;
 background-color:#02183d; 
+}
+
+h1{
+	padding-bottom: 100px;
 }
 
 #wins{
@@ -55,4 +60,10 @@ padding:20px;
 text-align: center;	
 background-color: black;
 color:white;
+}
+
+.display{
+	text-align: center;
+	background:white;
+	color:black;
 }
